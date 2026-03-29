@@ -106,4 +106,4 @@ Kullanıcılar, projeyi kendi sorumlulukları altında kullanmayı kabul etmiş 
 
 Geliştirici: Ramazan Özkan  
 E-posta: officallozkan@gmail.com  
-GitHub: [@offical00ozkan](https://github.com/offical00ozkan)
+GitHub: [@ozkan00offical](https://github.com/ozkan00offical)
